@@ -1,5 +1,6 @@
 # EpiczMod
 #Steps to setup bot
+
 •Copy github link
 
 •Import to repl.it/any coding website
@@ -19,6 +20,7 @@
 •Run the repl
 
 #Bug
+
 •Economy system
 
 #Support
